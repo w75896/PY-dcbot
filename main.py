@@ -5,3 +5,11 @@ import time as t
 
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix='$',intents=intents)
+
+
+
+
+
+if __name__=="__main__":
+
+    bot.run('')
